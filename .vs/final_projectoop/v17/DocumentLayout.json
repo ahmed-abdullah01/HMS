@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\dynamic_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:dynamic_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\final_projectoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:final_projectoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:hospital.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:hospital.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:appointment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:appointment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:medical_record.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:medical_record.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:doctor.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointments.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:appointments.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:patient.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:string.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DBB9D03-ED83-430E-B5E7-0FB7FC600FD9}|final_projectoop.vcxproj|solutionrelative:date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\1c2f879f-ac19-4599-b864-f0893b7dd672_cms.zip.672\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "string.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.cpp",
+              "RelativeDocumentMoniker": "string.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.cpp",
+              "RelativeToolTip": "string.cpp",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAAAAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T14:03:07.034Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "string.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.h",
+              "RelativeDocumentMoniker": "string.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\string.h",
+              "RelativeToolTip": "string.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T14:03:40.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "user.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.cpp",
+              "RelativeDocumentMoniker": "user.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.cpp",
+              "RelativeToolTip": "user.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T16:34:37.679Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "patient.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.txt",
+              "RelativeDocumentMoniker": "patient.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.txt",
+              "RelativeToolTip": "patient.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T11:40:18.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appointments.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointments.txt",
+              "RelativeDocumentMoniker": "appointments.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointments.txt",
+              "RelativeToolTip": "appointments.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T12:48:18.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.h",
+              "RelativeDocumentMoniker": "admin.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.h",
+              "RelativeToolTip": "admin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T17:43:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "admin.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.cpp",
+              "RelativeDocumentMoniker": "admin.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.cpp",
+              "RelativeToolTip": "admin.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T11:35:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "doctor.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.txt",
+              "RelativeDocumentMoniker": "doctor.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.txt",
+              "RelativeToolTip": "doctor.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T11:26:27.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "patient.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.cpp",
+              "RelativeDocumentMoniker": "patient.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.cpp",
+              "RelativeToolTip": "patient.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T16:45:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "patient.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.h",
+              "RelativeDocumentMoniker": "patient.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\patient.h",
+              "RelativeToolTip": "patient.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T16:45:13.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "medical_record.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.h",
+              "RelativeDocumentMoniker": "medical_record.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.h",
+              "RelativeToolTip": "medical_record.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T10:50:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "medical_record.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.cpp",
+              "RelativeDocumentMoniker": "medical_record.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\medical_record.cpp",
+              "RelativeToolTip": "medical_record.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T10:50:08.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appointment.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.cpp",
+              "RelativeDocumentMoniker": "appointment.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.cpp",
+              "RelativeToolTip": "appointment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T10:49:38.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appointment.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.h",
+              "RelativeDocumentMoniker": "appointment.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\appointment.h",
+              "RelativeToolTip": "appointment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T10:48:59.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doctor.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.cpp",
+              "RelativeDocumentMoniker": "doctor.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.cpp",
+              "RelativeToolTip": "doctor.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T10:48:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "doctor.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.h",
+              "RelativeDocumentMoniker": "doctor.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\doctor.h",
+              "RelativeToolTip": "doctor.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T10:48:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hospital.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.cpp",
+              "RelativeDocumentMoniker": "hospital.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.cpp",
+              "RelativeToolTip": "hospital.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAOwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T10:46:34.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hospital.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.h",
+              "RelativeDocumentMoniker": "hospital.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\hospital.h",
+              "RelativeToolTip": "hospital.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T10:43:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "admin.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.txt",
+              "RelativeDocumentMoniker": "admin.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\admin.txt",
+              "RelativeToolTip": "admin.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-12T18:26:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "final_projectoop.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\final_projectoop.cpp",
+              "RelativeDocumentMoniker": "final_projectoop.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\final_projectoop.cpp",
+              "RelativeToolTip": "final_projectoop.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T11:08:16.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\1c2f879f-ac19-4599-b864-f0893b7dd672_cms.zip.672\\Date.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\1c2f879f-ac19-4599-b864-f0893b7dd672_cms.zip.672\\Date.h",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\1c2f879f-ac19-4599-b864-f0893b7dd672_cms.zip.672\\Date.h [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\1c2f879f-ac19-4599-b864-f0893b7dd672_cms.zip.672\\Date.h [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T14:24:10.956Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dynamic_array.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\dynamic_array.h",
+              "RelativeDocumentMoniker": "dynamic_array.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\dynamic_array.h",
+              "RelativeToolTip": "dynamic_array.h",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowBoBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T14:29:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "date.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.cpp",
+              "RelativeDocumentMoniker": "date.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.cpp",
+              "RelativeToolTip": "date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T14:14:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "date.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.h",
+              "RelativeDocumentMoniker": "date.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\date.h",
+              "RelativeToolTip": "date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T14:23:59.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.h",
+              "RelativeDocumentMoniker": "user.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\oop\\final_projectoop\\user.h",
+              "RelativeToolTip": "user.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T11:19:20.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
