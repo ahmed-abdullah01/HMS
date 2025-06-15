@@ -1,16 +1,17 @@
 #ifndef APPOINTMENT_H
 #define APPOINTMENT_H
+#include "date.h"
 
 #include "String.h"
 
 class Appointment {
-    String date;
+    Date date;
     String time;
     String reason;
 
 public:
     Appointment();
-    Appointment(const String& d, const String& t, const String& r);
+    Appointment(int& d, int& m, int& y, const String& t, const String& r);
     void print() const;
 };
 

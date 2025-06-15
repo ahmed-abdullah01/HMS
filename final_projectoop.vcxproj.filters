@@ -45,6 +45,9 @@
     <ClCompile Include="admin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pharmacy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="user.h">
@@ -91,5 +94,8 @@
     <Text Include="appointments.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="rooms.txt" />
+    <Text Include="medicines.txt" />
+    <Text Include="pharmacy.h" />
   </ItemGroup>
 </Project>

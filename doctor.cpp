@@ -6,9 +6,14 @@ using namespace std;
 
 Doctor::Doctor() {}
 
-Doctor::Doctor(int id, const String& pwd, const String& name)
-    : User(id, pwd, name, "Doctor") {
+Doctor::Doctor(int id, const String& pwd, const String& name, const String& dept)
+    : User(id, pwd, name, "Doctor"), department(dept) {
 }
+
+String Doctor::get_department() const {
+    return department;
+}
+
 
 void Doctor::display_menu() {
     while (true) {
@@ -19,11 +24,16 @@ void Doctor::display_menu() {
         cout << "Choose: ";
         int c;
         cin >> c;
-        if (c == 1) show_appointments();
+        if (c == 1)
+        {
+            show_appointments();
+        }
         else if (c == 2) {
             remove_appointment();
         }
         else {
+            system("cls");
+            cout << "Logged out successfully!" << endl;
             break;
         }
     }
@@ -33,6 +43,10 @@ void Doctor::show_appointments() {
     ifstream file("appointments.txt");
     if (!file.is_open()) {
         cout << "Error reading appointments.\n";
+        cout << "Press any key to continue...";
+        cin.ignore();
+        cin.get();
+        system("cls");
         return;
     }
 
@@ -45,35 +59,47 @@ void Doctor::show_appointments() {
             cout << "\n";
             found = true;
         }
+           
     }
 
     if (!found) {
         cout << "No appointments found.\n";
+        
     }
+
+    cout << "Press any key to continue";
+    cin.ignore();
+    cin.get();
+    system("cls");
 
     file.close();
 }
 
 void Doctor::remove_appointment() {
-    String docName = get_name();
-    String targetPatient;
+    String docname = get_name();
+    String targetpatient;
 
     cout << "Enter patient username to remove from appointments: ";
-    cin >> targetPatient;
+    cin >> targetpatient;
 
     ifstream infile("appointments.txt");
     ofstream tempfile("temp.txt");
 
     if (!infile.is_open() || !tempfile.is_open()) {
         cout << "Error accessing files.\n";
+        cout << "Press any key to continue";
+        cin.ignore();
+        cin.get();
+        system("cls");
         return;
+
     }
 
     String patient, doctor;
     bool found = false;
 
     while (infile >> patient >> doctor) {
-        if (patient == targetPatient && doctor == docName) {
+        if (patient == targetpatient && doctor == docname) {
             found = true;
             continue;
         }
@@ -86,8 +112,20 @@ void Doctor::remove_appointment() {
     remove("appointments.txt");
     rename("temp.txt", "appointments.txt");
 
-    if (found) cout << "Appointment removed.\n";
-    else cout << "No matching appointment found.\n";
+    if (found)
+    {
+        cout << "Appointment removed.\n";
+    }
+    
+    else
+    {
+        cout << "No matching appointment found.\n";
+    }
+
+    cout << "Press any key to continue";
+    cin.ignore();
+    cin.get();
+    system("cls");
 }
 
 void Doctor::print_basic() const {

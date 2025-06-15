@@ -135,6 +135,7 @@
     <ClCompile Include="hospital.cpp" />
     <ClCompile Include="medical_record.cpp" />
     <ClCompile Include="patient.cpp" />
+    <ClCompile Include="pharmacy.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="user.cpp" />
   </ItemGroup>
@@ -154,7 +155,10 @@
     <Text Include="admin.txt" />
     <Text Include="appointments.txt" />
     <Text Include="doctor.txt" />
+    <Text Include="medicines.txt" />
     <Text Include="patient.txt" />
+    <Text Include="pharmacy.h" />
+    <Text Include="rooms.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

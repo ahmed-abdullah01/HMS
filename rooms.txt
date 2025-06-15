@@ -1,0 +1,3 @@
+wajid 2
+zain 3
+dado 1

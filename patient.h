@@ -5,10 +5,15 @@
 #include "appointment.h"
 #include "medical_record.h"
 #include "dynamic_array.h"
+#include "pharmacy.h"
 
 class Patient : public User {
     Dynamic_array<Appointment> appointments;
     MedicalRecord record;
+    Pharmacy pharmacy;
+    Dynamic_array<String> meds;
+    int total_med_cost = 0;
+
 
 public:
     Patient();
@@ -20,10 +25,14 @@ public:
     MedicalRecord& get_record();
     void print_basic() const;
     void book_room();
+    void unbook_room();
     void book_appointment();
     bool already_has_appointment();
-    void save_appointment_to_file(const String& doctorUsername);
+    void save_appointment_to_file(const String& doctor_username);
 
+
+    void view_doctors_by_department(); 
+    void generate_bill();
 };
 
 #endif

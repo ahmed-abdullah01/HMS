@@ -1,0 +1,11 @@
+panadol 100
+rigix 200
+augmentin 320
+ponstan 150
+nuberol 180
+calpol 130
+disprin 90
+flagyl 200
+brufen 160
+paracetamol 110
+aspirin 120
