@@ -27,13 +27,9 @@ It demonstrates the use of advanced OOP principles including inheritance, polymo
 - File Handling (`fstream`)
 - Class Relationships:
   - Inheritance (User → Doctor, Patient, Admin)
-  - Composition (MedicalRecord includes Disease)
+  - Composition (Pharmacy is a part of Hospital)
   - Aggregation (Patient linked with Doctor, Room, Pharmacy)
 - Exception Handling
 - Split header/source files
 - CLI-based user interface
-
----
-
-## 📂 File Structure
 
